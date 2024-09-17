@@ -1,0 +1,1 @@
+import"./chunk-4CLCTAJ7.js";var t=[{path:"",loadComponent:()=>import("./chunk-FOX7EPRI.js").then(o=>o.HomeComponent),children:[{path:"",loadComponent:()=>import("./chunk-GXAR5BSD.js").then(o=>o.DashboardComponent)}]}];export{t as homeRoutes};
