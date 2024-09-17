@@ -1,1 +1,0 @@
-import"./chunk-4CLCTAJ7.js";var t=[{path:"",loadComponent:()=>import("./chunk-BLLMV4YD.js").then(o=>o.CustomersComponent),children:[{path:"",loadComponent:()=>import("./chunk-NXT4XHTF.js").then(o=>o.CustomersListComponent)}]}];export{t as customersRoutes};
