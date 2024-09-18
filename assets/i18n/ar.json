@@ -1,0 +1,12 @@
+{
+  "SUBSCRIPTIONS": {
+      "NAME": "Subscription Name",
+      "MONTHLY_PRICE": "Monthly Price",
+      "YEARLY_PRICE": "Yearly Price",
+      "STATUS": "Status",
+      "STORES_NO": "Stores No",
+      "ON_WEB": "On Web",
+      "DEFAULT": "default",
+      "Action": "Action"
+    }
+}

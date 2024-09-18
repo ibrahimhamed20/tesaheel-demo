@@ -8,31 +8,27 @@
     "NAME": "Category",
     "PRODUCT_MANAGEMENT": "Products Management",
     "ADD_NEW_CATEGORY": "Add New Category",
-    "EDIT_NEW_CATEGORY": "Edit Category",
-    "ADD_SUB_CATEGORY":"Add Subcategory"
+    "EDIT_NEW_CATEGORY": "Edit Category"
   },
   "BRANDS": {
     "ADD_NEW_BRAND": "Add New Brand",
-    "CLASSIFICATIONS":"Classification",
-    "BRAND_DELETED_SUCCESS":"Brand deleted successfully"
-
+    "CLASSIFICATIONS": "Classification",
+    "BRAND_DELETED_SUCCESS": "Brand deleted successfully"
   },
   "CLASSIFICATIONS": {
     "ADD_NEW_CLASSIFICATION": "Add New Classification",
-      "EDIT_CLASSIFICATION":"Edit Classification"
+    "EDIT_CLASSIFICATION": "Edit Classification"
   },
   "FIELDS": {
     "SHORT_ARABIC_NAME": "Short Arabic Name",
     "SHORT_ENGLISH_NAME": "Short English Name",
     "SHORT_NAME": "Short Name",
-    "CATALOG": "Product catalog",
     "UNIT_NAME": "Unit Name",
     "ENGLISH_NAME": "English Name",
     "ARABIC_NAME": "Arabic Name",
     "CLASSIFICATION": "Classification",
     "ALLOW_DECIMAL": "Allow Decimal",
     "BAR_CODE_NO": "Barcode Number",
-    "PARENT_CATEGORY": "Parent Category",
     "PRODUCTNAME": "Product Name",
     "PRICE": "Price",
     "NO_PRODUCTS": "Number of products",
@@ -48,6 +44,7 @@
     "VARIANTVALUE": "Variant Value",
     "ADDVARIANTVALUE": "Add Variant Value",
     "ACTIONS": "Actions",
+    "EXPIRATIONPERIOD": "Experision Period",
     "ID": "Code",
     "PRODUCT_NO": "Product No",
     "PRODUCT_PRICE": "Product Price",
@@ -55,10 +52,15 @@
     "PAID_PRODUCT": "Paid Product",
     "CATEGORY_NAME": "Category name",
     "BRAND_NAME": "Brand name",
-    "SERVICE_TYPE":"Service Type",
+    "SERVICE_TYPE": "Service Type",
     "NAME": "Name",
-    "BRANDNAME":"Brand Name",
-    "TAGNAME":"Tag Name"
+    "BRANDNAME": "Brand Name",
+    "TAGNAME": "Tag Name",
+    "UNIT": "Unit",
+    "SERIALNUMBER": "Serial Number",
+    "TAGS": "Tags",
+    "SKU": "Sku",
+    "IMAGES":"Images"
   },
 
   "VARIANTS": {
@@ -68,12 +70,13 @@
     "CATEGORY_NAME": "Category name",
     "SUB_CATAGORY": "Sub Category",
     "CLASSIFICATIONS": "Classification",
-    "EDIT_VARIANT":"Edit Variant"
+    "EDIT_VARIANT": "Edit Variant"
   },
   "GENERAL": {
     "ADDED_SUCCESSFULLY": "{{name}} Added successfully",
     "UPDATED_SUCCESSFULLY": "{{name}} Updated successfully",
     "APPROVED_SUCCESSFULLY": "{{name}} APPROVED successfully",
+    "DELETED_SUCCESSFULLY": "{{name}} deleted successfully",
     "FILTERS": "Filters",
     "FIELD_REQUIRED": "{{fieldName}} is required",
     "SAVE": "Save",
@@ -84,8 +87,8 @@
     "DELETE": "Delete",
     "EDIT": "Edit",
     "CANCEL": "Cancel",
-    "CLEAR":"Clear",
-    "BACK":"Back"
+    "CLEAR": "Clear",
+    "BACK": "Back"
   },
   "MERCHANTS_PRODUCTS": {
     "MERCHANTPRODUCTS": "Merchants Products Management",

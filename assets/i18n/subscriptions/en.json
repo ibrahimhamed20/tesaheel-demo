@@ -1,0 +1,15 @@
+{
+    "SUBSCRIPTIONS": {
+        "NAME": "Subscription Name",
+        "TITLE": "Subscription",
+        "SUBSCRIPTIONS": "Subscriptions",
+        "MONTHLY_PRICE": "Monthly Price",
+        "YEARLY_PRICE": "Yearly Price",
+        "STATUS": "Status",
+        "STORES_NO": "Stores No",
+        "ON_WEB": "On Web",
+        "DEFAULT": "default",
+        "FREE_TRIAL_DAYES_COUNT": "freeTrialDayesCount",
+        "ACTIONS": "Actions"
+      }
+}
